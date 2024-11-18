@@ -1,7 +1,7 @@
 # My Power BI Learning Journey
 
 ## About Me
-[Write 2-3 sentences about yourself and why you're learning Power BI]
+I have always considered Power BI to be a major tool that could help me transit into the Tech Space. Given my background in Finance and Accounting the knowledge of Power BI will make me assist companies to take informed business decisions given a set of data 
 
 ## Learning Goals
 1. Master Power BI Desktop fundamentals
